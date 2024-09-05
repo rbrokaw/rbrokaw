@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Ricky Brokaw
+## Hello! I'm Ricky Brokaw
+and this is my GitHub page
 
 - 📓 I'm currently working on: a PhD in Marine Science at [UC Santa Barbara](https://www.igpms.ucsb.edu/)
 - 🌀 My research interests are: physical oceanography; surface ocean processes; remote sensing; ocean/atmosphere dynamics
