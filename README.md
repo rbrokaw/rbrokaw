@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ricky Brokaw
 
-- 📓 I'm currently working on: my PhD in Marine Science at UC Santa Barbara
+- 📓 I'm currently working on: a PhD in Marine Science at UC Santa Barbara
 - 🌀 My research interests are: physical oceanography; surface ocean processes; remote sensing; ocean/atmosphere dynamics
 - 📫 You can reach me at: rbrokaw@ucsb.edu or richardjbrokaw@gmail.com
 
