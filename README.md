@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ricky Brokaw
 
-Welcome to my GitHub profile. I'm a 5th year PhD candidate at the University of California, Santa Barbara. I am broadly focused on how physical processes shape the biological and ecological patterns observed in the Santa Barbara Channel.
+Welcome to my GitHub profile. I'm a 5th year PhD candidate in Marine Science at the University of California, Santa Barbara. My research is currently focused on how physical processes shape the biological and ecological patterns observed in the Santa Barbara Channel.
 
 - 📫 How to reach me: rbrokaw@ucsb.edu or richardjbrokaw@gmail.com
 
