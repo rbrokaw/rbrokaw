@@ -4,9 +4,11 @@ Welcome to my GitHub profile. I'm a 5th year PhD candidate in Marine Science at 
 
 - 📫 How to reach me: rbrokaw@ucsb.edu or richardjbrokaw@gmail.com
 
+<!--
+
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=rbrokaw&theme=vision-friendly-dark&rank_icon=github&hide=contribs&show_icons=true) ![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrokaw&langs_count=6&theme=vision-friendly-dark&layout=compact)
 
-<!--
+
 **rbrokaw/rbrokaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
